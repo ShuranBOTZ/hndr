@@ -45,30 +45,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'Gk Ad Bang:v'
-global.sgh = 'https://github.com/Bot-Mdnew'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = '-'
 global.sdc = 'https://github.com/Bot-Mdnew'
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081352848936'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '6281271010619'
+global.nomorown = '6281271010619'
+global.namebot = '「𝑺𝒉𝒖𝒓𝒂𝒏𝑩𝑶𝑻𝒁 」'
+global.nameown = '𝙎𝙪𝙧𝙖𝙣𝙩𝙖 𝘼𝙙'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['6281271010619', 'suranta', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 DaniBotz |ᗪani Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 尺乇ㄒ乇卂爪 乂     '
-global.wm3 = '尺乇ㄒ乇卂爪 |ᗪ'
+global.wm = '「𒈞sнuʀᴀɴʙoтz𒈞' //Main Watermark
+global.wm2 = '    乂 𒈞sнuʀᴀɴʙoтz𒈞 乂     '
+global.wm3 = '𒈞sнuʀᴀɴʙoтz𒈞'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'ㄩ几| 丂ㄖᐯ|乇ㄒ✯✯✯✯✯ '
+global.titlebot = '「𝑺𝒉𝒖𝒓𝒂𝒏𝑩𝑶𝑻𝒁 」 '
 global.author = global.wm
 
 
@@ -171,8 +171,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '\n'
-global.stickauth = `乂 尺乇ㄒ乇卂爪.|ᗪ \nig reteam.id`
+global.stickpack = '𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚'
+global.stickauth = `「𝑺𝒉𝒖𝒓𝒂𝒏𝑩𝑶𝑻𝒁 」`
 
 global.multiplier = 38 // The higher, The harder levelup
 
